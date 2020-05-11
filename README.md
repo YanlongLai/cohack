@@ -1,7 +1,7 @@
 # cohack
 希望建立一個即時統一的新聞串流平台，利用大數據資訊整合解析資訊，並快速的生成報表與通知，提供開放式的API讓所有的開發者可以自行應用。
 Demo Map: 
-![alt text](hhttps://github.com/YanlongLai/cohack/raw/master/images/1.png "Demo")
+![alt text](https://github.com/YanlongLai/cohack/raw/master/images/1.png "Demo")
 
 ## 300個字內的概念說明（包含解決問題標的、技術應用說明、預期擴大應用之成效）。
 
