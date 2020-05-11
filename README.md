@@ -15,23 +15,24 @@ cohack.tw
 此平台如果未來成為媒體或民眾會得到最新消息的窗口之一，將更有效整合政府其他部門的消息發布，未來對於公衛上要如何執行跟規範，世界各國也可以分享自身的經驗，共同度過艱難的時刻。
 
 ## 目前掌握了哪些相關資料？(例如資料的時間區間、資料格式、資料欄位、資料筆數、資料蒐集方法等)。
-各國資料
-1、台灣政府資料開放平台：https://data.gov.tw/
-2、香港政府數據中心：https://data.gov.hk/en/
-3、英國國家數據中心：https://data.gov.uk/
-4、日本統計局：http://www.stat.go.jp/
-5、中國國家數據中心：http://data.stats.gov.cn/
-6、美國政府開放資料：https://www.data.gov/
-7、歐盟資料平台：https://www.europeandataportal.eu/
+### 各國資料
+1. 台灣政府資料開放平台：https://data.gov.tw/
+2. 香港政府數據中心：https://data.gov.hk/en/
+3. 英國國家數據中心：https://data.gov.uk/
+4. 日本統計局：http://www.stat.go.jp/
+5. 中國國家數據中心：http://data.stats.gov.cn/
+6. 美國政府開放資料：https://www.data.gov/
+7. 歐盟資料平台：https://www.europeandataportal.eu/
 資料來源大多是文字csv, json, xml, rss feed等等，可以有效地取得timestamp, data source, reference，以台灣政府資料開放平臺為例，許多部門都是採用Json每天更新的方式發布新聞稿，新聞比數約略百筆，自然語言分析可有效地了解新聞內容的關鍵字與趨勢。
 
-世界組織統計資料
-1、世界經濟貿易合作組織資料庫：https://data.oecd.org/
-2、世界銀行開放資料：https://data.worldbank.org.cn/
-3、世界衛生組織：http://apps.who.int/gho/data/node.home
-企業/平台資料庫
-1、github：https://github.com/awesomedata/awesome-public-datasets
-2、Youtube資料集：https://research.google.com/youtube8m/index.htm
-3、GOOGLE開放資料搜索：http://www.google.com/publicdata/directory?hl=en_US&dl=en_USl
-4、Google趨勢搜索：https://trends.google.com/trends/?geo=US
-5、亞馬遜aws：https://aws.amazon.com/cn/datasets/
+### 世界組織統計資料
+1. 世界經濟貿易合作組織資料庫：https://data.oecd.org/
+2. 世界銀行開放資料：https://data.worldbank.org.cn/
+3. 世界衛生組織：http://apps.who.int/gho/data/node.home
+### 企業/平台資料庫
+1. github：https://github.com/awesomedata/awesome-public-datasets
+2. Youtube資料集：https://research.google.com/youtube8m/index.htm
+3. GOOGLE開放資料搜索：http://www.google.com/publicdata/directory?hl=en_US&dl=en_USl
+4. Google趨勢搜索：https://trends.google.com/trends/?geo=US
+5. 亞馬遜aws：https://aws.amazon.com/cn/datasets/
+
